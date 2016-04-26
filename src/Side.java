@@ -16,6 +16,8 @@
 
 
 public enum Side {
+	
+	// declaration and assignment 
 	HEART_IN(1), HEART_OUT(-1), DIAMOND_IN(2), DIAMOND_OUT(-2), CLUB_IN(3), CLUB_OUT(-3), SPADE_IN(4), SPADE_OUT(-4);
 
 	private int num;
